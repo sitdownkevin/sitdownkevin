@@ -1,6 +1,6 @@
 ### Hi,
 
-🌱 I’m currently learning Solidity
+🌱 Interest at Web3, Data Mining and Machine Learning, Information System and etc.
 <!--
 **sitdownkevin/sitdownkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
